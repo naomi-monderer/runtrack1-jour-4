@@ -1,0 +1,38 @@
+* {
+    margin:0;
+    padding:0;
+    
+}
+
+
+body{
+    
+    background-color: rgb(211, 63, 63);
+    
+
+}
+
+.menu-right ul{
+    display:flex;   
+    align-content: space-around;
+    flex-wrap: nowrap;
+    list-style: none;
+    border: 1px solid black;
+
+
+}
+
+
+
+.borderText1{
+    display: flex;
+    width: 600px;
+    height: 400px;
+    background-color:black;
+   border: black solid 2px;
+    /*border-width: 1px;*/
+    border-style:inset;
+    /*border-color: black;*/
+    color: white;
+  
+}
